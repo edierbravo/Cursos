@@ -3,5 +3,5 @@
 
 En cada rama de este repositorio encontraras direrentes cursos y proyectos. Acpntinuacion se enciuentran los enlaces a cada uno de estos cursos desarrollados:
 1. [Link curso English](https://github.com/edierbravo/Cursos/tree/English)
-2. [Link curso Git y GitHub](https://github.com/edierbravo/Cursos/tree/GitHub)
+2. [Link curso Git y GitHub](https://github.com/edierbravo/Cursos/tree/Github)
 
